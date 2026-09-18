@@ -1,0 +1,10 @@
+{
+  "name":"On-Call Payroll",
+  "short_name":"On-Call",
+  "description":"Create weekly on-call payroll summaries.",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f7fa",
+  "theme_color":"#102a43",
+  "icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
